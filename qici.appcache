@@ -1,0 +1,19 @@
+CACHE MANIFEST
+#VERSION 20160524152516
+Assets/meta/globalUrlMap.js
+Assets/css/style.css
+http://engine.zuoyouxi.com/lib/1.1.1/phaser.min.js
+http://engine.zuoyouxi.com/lib/1.1.1/webfontloader.js
+http://engine.zuoyouxi.com/lib/1.1.1/qc-core.js
+http://engine.zuoyouxi.com/lib/1.1.1/qc-loading.js
+http://engine.zuoyouxi.com/lib/qc-webgl.js
+
+js/game-scripts-mini-1.0.js
+Assets/scene/main.bin
+Assets/prefab/source.bin
+Assets/atlas/happy.bin
+Assets/prefab/redBrick.bin
+Assets/font/font.bin
+
+NETWORK:
+*
